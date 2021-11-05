@@ -136,9 +136,10 @@ button:hover{
 }
 
 /* Media queries */
-@media (max-width: 768px){
+@media (max-width: 500px){
     a{
-      font-size: 2rem;
+      font-size: 1.5rem;
+      margin: 0 4%;
     }
     
     .title-container div{
